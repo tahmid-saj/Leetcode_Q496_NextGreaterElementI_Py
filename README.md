@@ -1,0 +1,1 @@
+# Leetcode_Q496_NextGreaterElementI_Py
